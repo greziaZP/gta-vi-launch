@@ -5,19 +5,6 @@ lanzamiento regional de GTA VI. Contadores de tiempo restante y transcurrido, 40
 países, zonas adicionales, filtros, búsqueda, mapa ilustrativo y preferencias
 guardadas en el navegador.
 
-## Procedencia
-
-Esta copia para la presentación universitaria incorpora con autorización los 130
-commits de la rama `develop` de `jeancdevx/gta-vi-launch`. Se conservaron los
-mensajes, los archivos y las relaciones entre commits. La autoría original se
-conserva en el historial institucional.
-[Historial institucional hasta `db2b3fa`](https://github.com/jeancdevx/gta-vi-launch/commits/db2b3faf31bb5ee12ad7a26633302d10b8ca6178).
-
-Para la presentación, esta copia usa `greziaZP` como autor y asigna fechas de
-autor cada 30 minutos desde el 16 de noviembre de 2026 a las 09:00, hora de
-Lima. La fecha de registro de Git indica cuándo se creó cada commit de esta
-copia.
-
 ## Ejecutar
 
 Node 26 y pnpm 10.33.2.
