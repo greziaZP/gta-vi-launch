@@ -196,6 +196,7 @@
   @media (prefers-reduced-motion: reduce) {
     #region-panel:not([hidden]) {
       animation: none;
+      transition-property: none;
     }
 
     .radar-sweep-beam {
